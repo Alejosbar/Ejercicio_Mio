@@ -1,0 +1,35 @@
+commit 6cd9d88e3a948df107a2684c5a4f45fef979ad1a
+Author: Alejandro Yazo <yazocult@hotmail.com>
+Date:   Thu Feb 16 09:16:02 2017 -0500
+
+    3
+
+commit 6aa8a0c4af914eb773a5102b35d8f7c2361d7fe9
+Author: Alejandro Yazo <yazocult@hotmail.com>
+Date:   Thu Feb 16 09:15:39 2017 -0500
+
+    2
+
+commit 38f7527fd92a258b3d433fcd843d76e0f63e0d47
+Author: Alejandro Yazo <yazocult@hotmail.com>
+Date:   Thu Feb 16 09:13:06 2017 -0500
+
+    colocar número
+
+commit 8b4fbd662c38049cf5fc56ea849a6dea2ec84cdb
+Author: Alejandro Yazo <yazocult@hotmail.com>
+Date:   Thu Feb 16 08:20:29 2017 -0500
+
+    Edición página de ingles a español
+
+commit 804ffaf8ce26542fee72812badeb14efd4073c5e
+Author: Alejandro Yazo <yazocult@hotmail.com>
+Date:   Thu Feb 16 08:17:45 2017 -0500
+
+    Nombre y descripción
+
+commit 1bee4da640b59059789dcf93f7ac02250d43f2a9
+Author: Alejandro Yazo <yazocult@hotmail.com>
+Date:   Thu Feb 16 08:12:37 2017 -0500
+
+    Creación inicial del proyecto Assets  e imágenes
